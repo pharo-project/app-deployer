@@ -18,3 +18,8 @@ On OS X, If your app is not certified by Apple, you need to modify your system s
 We should be able to provide system package for applications (using [Open Build Service](http://openbuildservice.org/)).
 ### Windows
 We should provide an installer (we already have a [template with NSIS](https://github.com/pharo-project/pharo-build-scripts/tree/master/windows-installer)) able to check if the user has enough permissions to install in the choose folder. Then, we should propose the creation of shorctuts (desktop, OS menu)
+
+## Source of input
+
+The presentation of Maximillo Tabacman at Smalltalk is nice and we should contact him. 
+The pdf is in the repo. 
